@@ -1,0 +1,1 @@
+GearUp is a dynamic mobile application designed for sports enthusiasts and entrepreneurs to customize and sell sports goods online. Whether you're a retailer, manufacturer, or an athlete looking to personalize your gear, GearUp provides a seamless platform for creating customized sports products and selling them to a global audience.
